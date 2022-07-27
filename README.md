@@ -8,3 +8,5 @@ Here you will find web design projects created by me. Most of these will be mock
 <strong>Below are my recent projects:</strong>
 
 [Castle Explorers European Tours](https://samihachowdhury.github.io/webdev/layout5/)
+<br>
+[Animal Exhibits :: Ann Arbor Aquarium](https://samihachowdhury.github.io/webdev/layout3/animal-exhibits.html)
