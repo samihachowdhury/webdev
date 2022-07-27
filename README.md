@@ -1,8 +1,10 @@
-Hey there, welcome to my site! :)
+<strong>Hey there!</strong>
 
-Here you will find projects completed for Web Dev 1 and 2. 
-Most of these will be just mock-ups of websites, landing pages, etc. 
+Welcome to my site! :)
 
+Here you will find web design projects created by me. Most of these will be mock-ups of websites, landing pages, etc. 
+<br>
+<br>
+<strong>Below are my recent projects:</strong>
 
-Below are my recent projects:
 [Castle Explorers European Tours](https://samihachowdhury.github.io/webdev/layout5/)
